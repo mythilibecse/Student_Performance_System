@@ -1,16 +1,9 @@
-# internal
+# Student Performance System
 
 A new Flutter project.
+It will store the Student internal marks in Google Sheets which will be displayed to the Student using this Application.
+Student are supposed to enter their Name and Register Number to view their marks.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies used
+- Flutter
+- Google Sheets
